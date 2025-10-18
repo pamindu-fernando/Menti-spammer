@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Menti Script Generator",
+  "description": "A web application to generate a browser automation script for voting on Mentimeter polls. This tool is for educational purposes only.",
+  "requestFramePermissions": []
+}
